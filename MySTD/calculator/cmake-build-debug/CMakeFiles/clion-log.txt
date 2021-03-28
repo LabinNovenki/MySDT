@@ -1,0 +1,4 @@
+"C:\Users\ASUS\AppData\Local\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\ASUS\CLionProjects\calculator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/ASUS/CLionProjects/calculator/cmake-build-debug

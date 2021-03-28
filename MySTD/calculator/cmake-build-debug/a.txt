@@ -1,0 +1,6 @@
+float a;
+int b;
+a = 4;
+b = 1;
+a = (a + 4) * b;
+write(a);#
